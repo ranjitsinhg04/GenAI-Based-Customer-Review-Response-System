@@ -73,7 +73,7 @@ The system:
 └──────────────────────────┘
 ```
 
-
+![Mindmap: GenAI Customer Review Response System](mindmap_cust_review_reply.png)
 
 ### Diagram Notes
 - **LLMs are stateless** and operate on one review at a time
